@@ -1,0 +1,533 @@
+001cbc059a	bed
+00c994418b	the wife
+0284ee6d70	pens, books
+02e1857f50	Very good, thank you.
+03057c8dd6	the bottle
+0309a6c666	France
+03497a4ad1	the checkout
+03b26643a6	they are , they're
+03ca7c1fa1	to deliver
+04501a0bf7	I help
+04e35eb3e4	How are you?
+04e9872170	Yes. How many?
+0625319505	the loading dock
+06b47bb080	I check
+07cc694b9b	time
+0833eccc20	I'm 35 (years old).
+0961283e82	Good evening!
+096b5dbdd0	E.
+09b08ecc6f	the cousin
+09ff4f6721	W.
+0a01763951	I work
+0a3277f1aa	the inventory, the stocktake
+0a7b8bfaa8	in the evening
+0ae1285ce5	M.
+0b8e35d816	sometimes
+0d3c149af5	he reads
+0d47794a65	What languages do you speak?
+0d97e7ea40	that, those
+0e20a55962	How many?
+0e66be14b8	their
+0ea99e0296	he is , he's
+0f0c6d51b7	OK, thanks!
+0f930c4469	Good morning. I'd like a loaf of white bread, please.
+1007e1b7f8	Italy
+1016a6993b	the pen
+1026ea486f	to live
+106a6c241b	home
+1094e033b6	I speak
+1164346fb9	See you tomorrow!
+1191be6bbf	he drives
+1278b65290	the bike
+12a9ae9a8a	Yes, No
+12f31853fb	Q.
+13b5bfe96f	in
+13e575be86	How old are you?
+140208bb60	Sorry
+15d3742661	How many boxes?
+15f6f8dc03	twelve
+162e31afc5	our
+166e08fea6	the woman
+1730096d88	My name is Mimoun.
+17d5489fd7	the truck, the lorry
+18573e0aa1	to repair, to fix
+18bfaf8920	Four, please. How much is it?
+18f06b76f8	the apple
+195fbb57ff	May
+197732d26b	I don't understand.
+1a3161e2dd	thirty
+1af23c3dbe	to work
+1b02976eb2	the father
+1b539f6f34	July
+1be5fda881	three blue bags
+1cb71142c6	the parents
+1cb99b7364	yes, no
+1cdb71f203	the friend
+1d56cec552	nineteen
+1dd2999672	new, old
+1e6311b636	what time?
+1fd9228a18	he makes
+1ffd9e753c	black
+2031a94ff8	who?
+206d0558d0	the dog, the cat
+213fa3203d	to speak
+217e0016b1	the gym
+21e3539cfa	the sister
+221cdfb730	Turkey
+22c7deeb2e	the computer
+2372e68554	I live
+2384fdd3f2	a city, a battery
+238aaf6ca1	I repair
+23c4bb5744	to drink
+24561cace4	the school
+248c0b0dcf	Can you repeat, please?
+24d27c169c	eight
+24f691abf9	a box, a car, a hospital
+25610e59f9	I drive
+2611912a7d	You're welcome
+262b4120aa	twenty-five
+263b3e5da1	ninety-nine
+269a63fec5	Belgian
+27369b3bf4	hot
+279e962ea6	fourteen
+27aa2cf127	the supermarket
+2834e38b29	the bread
+289f75206a	Moroccan
+291b185a21	I'm from Morocco.
+294cabeb6e	I read
+2a08e96cad	ninety
+2a3af86097	Perfect. See you tomorrow!
+2a8f4d033f	V.
+2abb2e3d77	we live
+2aee5f6e68	Good morning! Can I help you?
+2af2601cab	to sign
+2b54fd1b55	forty
+2ba04c886c	boxes, glasses
+2c45f80c65	N.
+2ca63cddd5	house
+2caa6b1510	to check
+2cbdaf9ce4	eighteen
+2cffc58d79	French, Arabic and a little English!
+2e13d3ee96	the visitor
+2e457d2f9f	seventeen
+2f8698b212	I'd like
+2f89ea8e05	See you soon!
+2fe8d5fc72	OK, All right
+30056e1cab	five
+32a6dbe2a4	we are , we're
+33dbc378ab	the son
+340e757680	she is , she's
+3419f63785	I get up at six o'clock.
+347584b46b	I live in Brussels.
+34942b6de3	the weekend
+34e0662b3d	the grandmother, grandma
+3539bffdb9	I make
+35d6d33467	three
+3627e6d34d	at night
+365cf61ef2	she lives
+3684f31cab	he watches
+36dcd807a3	the chair
+375d0a399a	See you later!
+37da901b00	Where is the radiology department?
+37f92e4b11	The delivery is late.
+3832805fbb	the egg, the eggs
+38b2bfd776	I'm Belgian.
+3d2f9e254a	X.
+3ebe23b80e	in cash
+3f432f3f4d	I have
+3fcf026bbf	April
+40ddba83c2	R.
+40fabe17eb	I have two brothers and one sister.
+417170aabd	the milk
+41ba29a199	he buys
+41ba70891f	August
+422ecc084f	thirteen
+429ebcf60b	Yes, please. Do you have croissants?
+42a2f2ea04	H.
+43109fba10	French, Dutch, German
+4368bc610a	thirty-four
+45438ea678	I work.
+455472b522	thank you
+45c331e867	seventy-six
+46caea8789	you have
+473ff5b375	in the afternoon
+4750ac3015	married
+47a2a8bec4	the water
+4854dbb7b9	I start at half past seven.
+48cbc29dbc	an apple, an hour, an order
+48d6215903	blue
+4a0804b810	What's your name?
+4a0b0dcedd	pink
+4a1dbf51be	usually
+4a2028ecea	what
+4be8e06d27	Italian
+4c843bd5e8	Bye!
+4cc35a4f86	Are you Belgian?
+4d4a1722d8	Morocco
+4d9e303bee	the work
+4db40752f4	children, men, people
+4e1801c771	No, I don't. But I have two parrots!
+4e404dec88	one piece, two pieces
+4e588194c7	the reception
+4f438fac92	the coffee
+50b268b563	the child, the children
+50c91a1c1d	one hundred
+50e23a5c11	Do you have children?
+520f770f48	the book
+5259b8d31e	the invoice
+5360706c80	Hi!
+5456a19d6c	seventy
+54711c3970	to sleep
+5576e2bee7	the house
+557b5d7024	I go to work by motorbike.
+564a6864fb	Very good! Great!
+56b1cdfe16	we work
+5792315f09	Tuesday
+57fbc7ee0c	K.
+584826e704	its
+58e148ebf7	he listens
+5aefb4421c	the boat
+5b2e22299f	the table
+5b38433e1f	a child, a man, a person
+5c3f3e02ed	the car
+5c5a50e7e1	to learn
+5cc3001900	Fine, thank you.
+5d41402abc	hello
+5e9c5b81d5	to write
+5eef76bc0d	I listen
+5ef76d30bf	use
+5f4238afbd	O.
+6050ce63e4	please
+619f645d6c	the delivery
+62506be34d	food
+62cc0b4ebb	your
+63a0d28997	At half past seven. I finish at four.
+63adbe7bbf	the month
+647673e691	you are , you're
+64f607906b	England
+659e59f062	February
+65b50b04a6	his
+661f133e5f	two euros fifty
+671b229988	how?
+67b3a435ea	big, small
+67f613ab27	the office
+6864f389d9	my
+688937ccaf	June
+68a8178907	the parcel, the package
+68bf367e22	Dutch
+6c067fbeac	to order
+6c1674d14b	Belgium
+6ca7524a64	How much is it?
+6d82c2c2fd	Can you repeat that, please?
+6d8b3c0697	G.
+6ddf84e7dd	the bag
+6e227e293e	he sleeps
+6e2d26fb8a	the fish
+6f066f0135	I learn
+6f36f3dd51	he lives
+6f8522e061	Monday
+6ff47afa5d	brown
+70cab3299d	the gloves
+71264d8811	the paper
+7169b5d977	to store, to tidy
+7239ea2b5d	tea
+72d3ff5386	It's expensive, cheap.
+744e0d07c5	cities, batteries
+74e1800223	the ward, the department
+7516c3b355	school
+755f85c272	good
+75e95a58ae	Just a moment, please.
+7680d24da3	the parrot
+76dd47f19a	half past eight
+76f66b8e51	the colleague
+7823c48cb8	from to
+78463a384a	English
+78ae6f0cd1	Thursday
+790b00d889	Yes, I am, No, I'm not.
+796c163589	Wednesday
+7976ded17e	And do you have children?
+7994ae2fa6	a quarter to nine
+79a9db10c7	the chicken
+79b8bbf88a	to count
+7acbb47b2f	I drink coffee and I eat breakfast.
+7ae1e4fd19	Does she have a car?
+7b803e9da6	to read
+7bb2f02ca7	the bakery
+7c106c7838	I look for
+7c44be7c6a	I'm Belgian. I live in Brussels.
+7c68d308cd	the driver
+7ce70b032a	You're welcome. Have a nice day!
+7d0db380a5	at
+7d590f0260	the man, the woman, the boxes
+7e823b3756	November
+7f43b5dd68	he drinks
+7f56fcda50	a pen, a book
+7fa13d6efa	Is that your family?
+806cb5c595	And you?
+815fbd2f6e	sixty-three
+81844a5016	the brother
+8233150317	December
+82e2beea15	the uncle, the aunt
+83549adee8	on the left
+835ef6c0b2	breakfast
+8602aa6a4c	twenty-one
+86de501570	he eats
+86f5978d9b	January
+8717cfca73	what?
+87d4eeb7de	sit
+88b2dd10cc	how much?
+8949f1678c	the door
+895e504e5d	Do you have brothers or sisters?
+8a8aa7bd9c	He doesn't have a car.
+8b406b3e53	I'm a storekeeper.
+8b4243e394	the box
+8b7051187b	Saturday
+8bfa875903	the technician
+8cbad96ace	four
+8cd680256e	to drive
+8dc67e5da2	to eat
+8dc94de72b	I.
+8de78704b1	It's five euros.
+8e4604e6aa	Great! What do you do?
+8e51e94a2b	the daughter
+8eb1150d1d	It's broken, damaged.
+8ec0cbfffd	I'm checking the stock.
+8f67a577e9	Do you work?
+8fc42c6ddf	the
+907eba32d9	Spain
+913cf8dd84	J.
+9194a2b687	OK, I'm checking the order One box is damaged.
+91d8d7321a	five to nine
+9245d1728a	divorced
+92756015b6	Yes, she does, No, she doesn't.
+9292a5e088	T.
+92a2132e01	fifteen
+92fcd05c47	Y.
+936318d649	how many?
+93a04b066f	night
+93a6dde5c6	I sign
+9460370bb0	water
+94b66a585f	the husband
+952d2c56d0	Hello!
+9589273d94	to carry
+96fee785a3	Good morning, Anna! How are you?
+97a9bccc3d	fifty
+97bc592b27	now
+9a843f2067	Welcome!
+9aaf864aca	five past eight
+9b22beec01	a quarter past eight
+9bce147872	C.
+9c3d4bad96	we have
+9c8454ddf7	eleven
+9cdcceca78	Here, please. See you next week!
+9cf3e63264	the glass
+9d1a0949c3	Sunday
+9e31977dbe	they have
+9f27410725	green
+9f30082f7e	It's eight o'clock.
+9f7568c6a1	I buy
+9fb9feae82	Thank you very much!
+a1d67a5cf6	Good afternoon, sir. It's on the left.
+a2c4fcd7a4	The car is new.
+a2dde362a8	he finishes
+a358871021	he learns
+a425158594	to watch
+a43b4caa46	her
+a461b3ad15	the hospital
+a4c22a3e69	I store
+a5cb5c38e6	S.
+a61632143c	the big box
+a6446782c9	After that, I go to the gym.
+a6f16a9d21	a small key
+a870257649	the warehouse, the store room
+a877e0c60d	the manager, the boss
+a9a5c44ff0	I finish at four o'clock.
+aacb7902b2	From Monday to Friday.
+ab389edaab	twenty
+ab3f0709b7	he walks
+ab8cbc8125	in the morning
+ac3c3f612f	I'm Mimoun.
+aca592cbb2	I'm a storekeeper in a hospital.
+acbcdabb77	to walk
+ad225f7078	French
+ad3db80729	In the evening, I watch TV and then I sleep.
+add6630f75	near, far
+adf447f1f1	How much is this?
+ae4facb02f	I am , I'm
+aeca5abb91	I order
+aedd949d12	twenty-two
+afd7cf038c	Good afternoon!
+afd9df32b6	it is , it's
+b034295d86	the man
+b035a70957	Where do you live?
+b03c63d100	the grandfather, grandpa
+b068931cc4	name
+b06c26aed0	B.
+b0b42d8258	the bird
+b0cf4c1287	Does she work?
+b1b9a972cc	ten
+b2372d86a1	What's your phone number?
+b274a10ecf	Fine, thanks. And you?
+b288b447e2	the mask
+b48247a86f	He isn't tired, They aren't here.
+b496d1fbc4	the mother
+b5b23554c2	Good morning. How many boxes?
+b5f31397ac	She works.
+b6326057ec	Goodbye! Bye!
+b69137a4d7	P.
+b750a07dc0	I don't work.
+b82bb8f7eb	eighty
+b88101e593	My name is Mimoun. Nice to meet you!
+b8a9f715db	two
+b94b23d9ff	Sliced?
+b96b08cfd0	when?
+ba422aec1e	U.
+bafe03d616	Can you sign here, please?
+bb3aec0fdc	seven
+bb7aedfa61	purple
+bc7f9299d9	Good night!
+bd2c775d9e	sixteen
+bd4c4ea1b4	these
+bd90f63a3f	I count
+bda9643ac6	red
+be913d1eaa	to make
+beac026972	which? what?
+beef0f4cd3	to help
+bf53787d94	you work
+c01e2ee41c	When do you work this week?
+c1351be1fe	Nice to meet you!
+c13a649a0f	the stock
+c15da1039f	Do you have?
+c1612bbdeb	Turkish
+c1e46ec7d1	to start, to finish
+c1e75b8cbc	a box, a glass
+c1ee5e3abd	Excuse me
+c1f18b2fce	I'll pay by card.
+c224572bc0	Seven euros twenty.
+c23946c050	tomorrow
+c2ab8cc01c	Where is?
+c2bc4346dd	the Netherlands
+c2eb474982	to buy
+c3340e4a07	the supplier
+c33b138a16	Friday
+c34ea3016a	the medicines
+c42bbd9074	alone
+c576d7647e	the doctor
+c585b8fc80	Thank you. Where do I sign?
+c5e7dfaf77	today
+c671f9624f	sir, Mr
+c7561db7a4	never
+c785e1ed29	nine
+c7dfc3c189	Have a nice weekend!
+c808658743	they live
+c8261508b5	the window
+c83347f8a0	I start
+c9eeea0f74	the shop, the store
+ca0b0549db	L.
+ca386149c0	Oh – four – seven – oh
+ca50000a18	grey
+ca9386ce44	I speak French.
+cb4aa9dae8	to listen
+cb5480c32e	Spanish
+cc5d90569e	September
+cd0dd38642	sixty
+cda8549915	Good morning! I have a delivery for the warehouse.
+cdd90c472e	I don't have children.
+cee5571133	eighty-nine
+ceffc2cc71	A bag, please.
+cf32a3cdda	the city
+cfed86165a	he writes
+d02c4c4cde	zero
+d03341a475	forty-seven
+d05bc2f9a1	Oh-four-seven-oh, one-two, three-four, five-six.
+d077f244de	cat
+d0904fd99a	D.
+d20f83ee69	bus
+d23aff6895	Arabic, Berber
+d3b478d294	the equipment
+d3fe1430d5	Hi! I'm Peter. What's your name?
+d41238b9d7	the order
+d45d294dfe	Sorry! I'll write it down.
+d487dd0b55	yellow
+d4ee2b58ba	the receipt
+d508fe45ce	white
+d56bf970b2	Good morning!
+d5cb2449a6	I eat
+d5f1cb387e	Thank you, Thanks
+d75661a645	Hello. Excuse me, where is the pharmacy?
+d8748f47dd	the motorbike
+d8eb5768b2	I sleep
+d903e64cbc	Thank you very much
+d92375c45b	the pharmacy
+d9f41dd950	the year
+d9fd93a9e9	the cheese
+dc5eeb9413	Yes! That's my mother, and that's my father.
+dc6231a588	I watch
+dcbfb23fc0	Good morning, Mimoun!
+dd5c07036f	single
+deacadfc05	Please
+df158c1c6f	I'll pay by card. Thank you!
+dfacbdd0c5	where?
+e00636a1a9	I work in a hospital.
+e0d3492c67	the patient
+e1354cc842	A.
+e1e582dbeb	Not very well.
+e24e76ad25	That's all.
+e31a0d322c	the pallet
+e3428acd75	I write
+e347164d8c	F.
+e36cdcc4ec	he speaks
+e436e319cf	Z.
+e4e7bf5e29	you live
+e85454bcf4	this, these
+e8ccf23751	the phone
+e904b52796	I'm not French.
+eac9e8dd85	yesterday
+ebacbc34d7	Twelve boxes and one pallet.
+ebeaee6424	She doesn't work.
+ec35753d7e	straight on
+ec8b704b82	I'm OK.
+eca60ae861	October
+ecaea189d4	the label
+ecd337ba07	What do you do?
+ed2b5c0139	on
+ed8fb743b2	We're out of gloves.
+edeb0733dc	the key
+ededcdf4fa	fifty-eight
+edfd685f84	See you on Monday!
+ee087f9a2d	to get up
+ef3205219d	to look for
+ef90836d41	Have a nice day!
+f0251b7841	At twelve o'clock, I eat with my colleagues.
+f3113ba632	or, and, but
+f4ab9dcf14	he works
+f52b5e449a	six
+f565767236	And what time do you start?
+f5971c3a13	on the right
+f65ac91536	the meat
+f6608ccaed	the vegetables
+f669528ed7	the nurse
+f72e576fd2	the week
+f7e78e04cb	every day
+f8432095b8	I drink
+f84dd89bbc	Yes, I do, No, I don't.
+f8d7aa1cbf	to go
+f96fd11544	he, she has
+f97c5d2994	one
+f9f90eeaf4	always
+fa21d700f9	I carry
+fa3e5edac6	March
+fa62ae9c74	The order has arrived.
+faa1f1b22c	I walk
+fae29da954	they work
+fb2c2e703c	the first, the second, the third
+fb54f3c599	shop
+fc187f12d3	here, there
+fd1562614f	why?
+fd168b4a17	often
+fd5e396959	More slowly, please.
+fe009d0657	I deliver
+fe01d67a00	orange
+fe99499473	Where are you from?
+fea0f1f6fe	cheese
+ff1a5cb4b4	madam, Mrs
